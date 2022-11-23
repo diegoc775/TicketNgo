@@ -1,0 +1,5 @@
+By: Diego Cobos
+This project is a trip registration application to replace the Pen & Paper data entry systems that were used by R.E.D. Hospitality and Leisure LLC. 
+The application both reads and writes to a connected Apache SQL server that manages the trip and guest information. It also has the capability to format 
+selected trip data into acceptable documents to be sent via a connected email client to financial and accounting personnel. Designed for R.E.D. employees,
+it features a user friendly UI to make data entry and retreival simple and time efficient.
