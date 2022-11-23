@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="trip_info_1" type="id" />
+    <item name="trip_info_2" type="id" />
+    <item name="trip_info_3" type="id" />
+    <item name="trip_info_4" type="id" />
+    <item name="trip_info_5" type="id" />
+    <item name="trip_name_1" type="id" />
+</resources>
